@@ -1,2 +1,2 @@
 # TechnicalUniversity_CourseProject
-Course Project.
+Course_Project.
