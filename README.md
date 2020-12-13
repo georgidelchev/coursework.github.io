@@ -1,2 +1,0 @@
-# TechnicalUniversity_CourseProject
-course project
